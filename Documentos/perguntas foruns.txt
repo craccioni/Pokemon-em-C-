@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/52447647/escolher-elemento-rand%C3%B4mico-de-um-array-em-c
+
+https://www.portugal-a-programar.pt/forums/topic/76801-sorteio-de-valores-de-um-array/?tab=comments#comment-611916

@@ -1,0 +1,13 @@
+
+Linha 1: Dano -->                            dmg1,dmg2,dmgx,         int dano;
+Linha 2: Defesa -->                          def1,def2,defx,         int defesa;
+Linha 3: Probabilidade de Defesa -->         der1,der2,              int prob_defesa;
+Linha 4: Vida -->                            vit1,vit2,              int hp;
+Linha 5: Destreza -->                        acu1,acu2,              int destreza;  
+Linha 6: Probabilidade de Esquiva -->        dod1,dod2,dodx,         int prob_esquiva;
+Linha 7: Velocidade do Ataque -->            asp1,asp2,              int atcksp;
+Linha 8: Penetracao de Armadura/Defesa -->   pie1,pie2,              int penet;
+   tua1,tua2,
+   per;
+      
+      https://www.vivaolinux.com.br/script/Pra-quem-gosta-de-RPG.-Um-sistema-de-lutas.
